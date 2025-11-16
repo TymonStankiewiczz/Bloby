@@ -1,0 +1,9 @@
+{
+    "use_blur": true,
+    "blur_kernel_level": 6,
+    "use_morph_open": true,
+    "morph_open_level": 5,
+    "use_morph_close": true,
+    "morph_close_level": 2,
+    "contour_min_area": 500
+}
