@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Kamien1', 'kamien2', 'kamien3', 'kamien4', 'kamien5', 'kamien6']
+
+roboflow:
+  workspace: erykvtymons
+  project: kamyczki-jsqkk
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/erykvtymons/kamyczki-jsqkk/dataset/2
